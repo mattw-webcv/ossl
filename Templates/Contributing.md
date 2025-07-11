@@ -1,4 +1,3 @@
-
 # Contributing to the Open Source Synthesised Licence (OSSL)
 
 Thank you for your interest in contributing to OSSL!  
@@ -61,15 +60,5 @@ By contributing to this project, you agree that your contributions will be licen
 ---
 
 Thank you again for contributing!
-
-
-
-
-
-
-
-
-
-
 
 

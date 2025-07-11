@@ -1,9 +1,3 @@
----
-tags: 
-Subtags: 
-up: 
-Neighbours:
----
 # Pull Request
 
 ## Description
@@ -19,29 +13,5 @@ Fixes #[issue_number] (if applicable)
 - [ ] I have added appropriate tests where applicable
 
 Thank you for contributing!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

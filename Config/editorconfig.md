@@ -1,9 +1,3 @@
----
-tags: 
-Subtags: 
-up: 
-Neighbours:
----
 # .editorconfig
 
 # EditorConfig helps maintain consistent coding styles across editors and IDEs
@@ -28,28 +22,4 @@ indent_size = 4
 [*.yml]
 indent_style = space
 indent_size = 2
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

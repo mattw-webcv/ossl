@@ -1,11 +1,3 @@
----
-tags: 
-Subtags: 
-up: 
-Neighbours:
----
-
-
 # Contributor Covenant Code of Conduct
 
 

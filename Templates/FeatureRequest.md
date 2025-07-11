@@ -1,11 +1,3 @@
----
-tags: 
-Subtags: 
-up: 
-Neighbours:
----
-
----
 name: Feature request
 about: Suggest an idea or enhancement for the project
 title: "[Feature]: "
@@ -25,28 +17,5 @@ A clear and concise description of any alternative solutions or features you've 
 
 **Additional context**
 Add any other context or screenshots about the feature request here.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

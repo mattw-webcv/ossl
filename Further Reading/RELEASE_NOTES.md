@@ -1,4 +1,3 @@
-
 # Release Notes
 
 Detailed notes on each release of the Open Source Synthesised Licence (OSSL) project.  

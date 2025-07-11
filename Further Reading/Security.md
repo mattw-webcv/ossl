@@ -1,7 +1,5 @@
 # Security Policy
 
-# Security Policy
-
 We take security vulnerabilities seriously and appreciate your efforts to responsibly disclose them.
 
 ## Reporting a Vulnerability

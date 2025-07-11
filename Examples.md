@@ -1,9 +1,3 @@
----
-tags: 
-Subtags: 
-up: 
-Neighbours:
----
 # OSSL Examples of Citation and Use
 
 This document provides examples of how to cite and apply the Open Source Synthesised Licence (OSSL) with specific Option configurations. These examples demonstrate how a Licencor can communicate their selected Options clearly and unambiguously.

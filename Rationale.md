@@ -1,9 +1,3 @@
----
-tags: 
-Subtags: 
-up: 
-Neighbours:
----
 # Rationale
 
 The Open Source Synthesised Licence (OSSL) was created in response to a number of recurring challenges observed in the landscape of open source, free software, and corporate licensing. This document explains the reasoning behind the design of OSSL and the principles it seeks to uphold.

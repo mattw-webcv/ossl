@@ -1,9 +1,3 @@
----
-tags: 
-Subtags: 
-up: 
-Neighbours:
----
 This `.gitignore` is simple and general‑purpose.  
 It assumes that the repository is mainly Markdown, but accommodates some common scenarios (like adding scripts or build tooling later).
 
@@ -42,29 +36,5 @@ __pycache__/
 *.zip
 *.tar.gz
 *.tgz
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

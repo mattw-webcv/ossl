@@ -1,9 +1,3 @@
----
-tags: 
-Subtags: 
-up: 
-Neighbours:
----
 # OSSL Options
 
 This document defines the optional modules (“Options”) that may be selected by the Licensor to customise the Open Source Synthesised License (OSSL) for a particular Licensed Work.

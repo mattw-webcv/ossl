@@ -1,9 +1,3 @@
----
-tags: 
-Subtags: 
-up: 
-Neighbours:
----
 # Open Source Synthesised Licence (OSSL)
 
 Welcome to the Open Source Synthesised Licence (OSSL) project.
